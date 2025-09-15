@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m a Computer Science student at York University<br>🖥️ Languages: Swift and Python<br>🐍 Projects: Currently building Python projects<br>🌍 Interests: Exploring and contributing to open-source projects<br>💡 Focus: Crafting clean, efficient, and scalable code<br>
+👋 Hello! I’m a Computer Science student at York University<br>🖥️ Languages: Swift, Python and Java<br>🐍 Projects: Currently building Python projects<br>🌍 Interests: Exploring and contributing to open-source projects<br>💡 Focus: Crafting clean, efficient, and scalable code<br>
 
 
 ## 🌐 Socials:
