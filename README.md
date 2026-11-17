@@ -1,16 +1,22 @@
 ### Hi, I'm Amirali 👋
 
-Computer Science student at **York University** (Lassonde) in Toronto, currently at **Appli AI**.
-I mostly build native macOS / iOS apps in Swift and small tools around AI coding agents.
+Computer Science student at **York University** (Lassonde) in Toronto and back-end software developer at **[Appli Solutions](https://applisolutions.com)**.
+I build web back-ends in Python, native macOS / iOS apps in Swift, and tools around AI agents.
 
-**Featured**
+🏆 Finalist (top 6 of 98 teams) at MongoDB's *Agents in Context* hackathon, Toronto, Nov 2026.
 
-- **[dynamic-notch](https://github.com/AmiraliAkef/dynamic-notch)**: a Dynamic Island for the MacBook notch. Now playing with live audio visualization, Claude Code session status, running terminal commands, timers, and a companion iPhone Live Activity over Bluetooth LE.
-- **[Lorten](https://github.com/AmiraliAkef/Lorten)**: a small link shortener.
+**Projects**
 
-**Tools I use**
+- **[ProfsAtYork](https://profsatyork.com)**: live site where York students rate professors and search by course. About 1,800 professors across 10 faculties. FastAPI, PostgreSQL, Docker, deployed through GitHub Actions to IBM Cloud Code Engine.
+- **[Phylax Tower](https://github.com/Ma1305/phylax-tower)**: hackathon finalist. AI agents that listen to air traffic control radio, track runway traffic and stop runway conflicts, with every decision audited in MongoDB Atlas. I built the audit agent, per-agent database identities and the autonomous safety stops. LangGraph, Claude, FastAPI.
+- **[dynamic-notch](https://github.com/AmiraliAkef/dynamic-notch)**: turns the MacBook notch into a Dynamic Island. Shows now playing, Claude Code session status and running terminal commands. Its Caffeinated mode keeps the Mac awake with the lid closed so agents keep working, and a companion iPhone Live Activity shows their status over encrypted Bluetooth LE.
+- **Statuser** *(in development)*: iPhone app that detects what you're doing and shows it to friends as a live status on Home and Lock Screen widgets. SwiftUI, WidgetKit, Supabase.
 
-Swift · SwiftUI · Python · Java · Spring Boot · JavaScript · Supabase
+At Appli Solutions I build REST APIs for auth, job posting and applicant workflows, and designed and built most of the *Circles* community feature (400+ active users).
+
+**Tools**
+
+Python · FastAPI · SQLAlchemy · PostgreSQL · MongoDB · Java · Spring Boot · TypeScript · React · Swift · SwiftUI · Docker · GitHub Actions · LangGraph · Ollama
 
 **Find me**
 
