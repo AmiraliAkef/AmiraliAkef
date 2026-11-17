@@ -1,17 +1,17 @@
-# 💫 About Me:
-👋 Hello! I’m a Computer Science student at York University<br>🖥️ Languages: Swift, Python and Java<br>🐍 Projects: Currently building Python projects<br>🌍 Interests: Exploring and contributing to open-source projects<br>💡 Focus: Crafting clean, efficient, and scalable code<br>
+### Hi, I'm Amirali 👋
 
+Computer Science student at **York University** (Lassonde) in Toronto, currently at **Appli AI**.
+I mostly build native macOS / iOS apps in Swift and small tools around AI coding agents.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amirali-akef-b9232a266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Amirali_Akef) 
+**Featured**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmiraliAkef&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmiraliAkef&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraliAkef&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=AmiraliAkef&icon=1&color=6)](https://visitcount.itsvg.in)
+- **[dynamic-notch](https://github.com/AmiraliAkef/dynamic-notch)**: a Dynamic Island for the MacBook notch. Now playing with live audio visualization, Claude Code session status, running terminal commands, timers, and a companion iPhone Live Activity over Bluetooth LE.
+- **[Lorten](https://github.com/AmiraliAkef/Lorten)**: a small link shortener.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Tools I use**
+
+Swift · SwiftUI · Python · Java · Spring Boot · JavaScript · Supabase
+
+**Find me**
+
+[LinkedIn](https://www.linkedin.com/in/amirali-akef-b9232a266)
