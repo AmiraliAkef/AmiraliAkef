@@ -3,7 +3,7 @@
 Computer Science student at **York University** (Lassonde) in Toronto and back-end software developer at **[Appli Solutions](https://applisolutions.com)**.
 I build web back-ends in Python, native macOS / iOS apps in Swift, and tools around AI agents.
 
-🏆 Finalist (top 6 of 98 teams) at MongoDB's *Agents in Context* hackathon, Toronto, Nov 2026.
+🏆 Finalist at MongoDB's *Agents in Context* hackathon, Toronto, Nov 2026.
 
 **Projects**
 
